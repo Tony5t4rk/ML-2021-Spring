@@ -7,7 +7,7 @@ Homework of [ML 2021 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.
 | HW01 |     Regression     |   0.87944    |    0.90454    |   [Link](Regression.ipynb)   |
 | HW02 |   Classification   |   0.76530    |    0.76253    | [Link](Classification.ipynb) |
 | HW03 |        CNN         |   0.54838    |    0.55230    |      [Link](CNN.ipynb)       |
-| HW04 |   Self-Attention   |      -       |       -       |              -               |
+| HW04 |   Self-Attention   |   0.90547    |    0.89944    | [Link](Self_Attention.ipynb) |
 | HW05 |    Transformer     |      -       |       -       |              -               |
 | HW06 |        GAN         |      -       |       -       |              -               |
 | HW07 |        BERT        |      -       |       -       |              -               |
