@@ -10,7 +10,7 @@ Homework of [ML 2021 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.
 | HW04 |   Self-Attention   |   0.90547    |    0.89944    | [Link](Self_Attention.ipynb) |
 | HW05 |    Transformer     |      -       |       -       |              -               |
 | HW06 |        GAN         |      -       |       -       |              -               |
-| HW07 |        BERT        |      -       |       -       |              -               |
+| HW07 |        BERT        |   0.75171    |    0.76332    |      [Link](BERT.ipynb)      |
 | HW08 | Anomaly Detection  |      -       |       -       |              -               |
 | HW09 |   Explainable AI   |      -       |       -       |              -               |
 | HW10 |       Attack       |      -       |       -       |              -               |
